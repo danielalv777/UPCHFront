@@ -1,0 +1,14 @@
+.select .select-label {
+    display: flex;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17.07px;
+    color: #4f4f4f;
+    margin-bottom: 0.2rem;
+}
+.select-container {
+    font-weight: 400;
+    color: #333;
+    font-size: 12px;
+    line-height: 15px;
+}
